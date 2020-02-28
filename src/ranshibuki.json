@@ -1,0 +1,141 @@
+[
+    {
+      "id": 1,
+      "name": "Ran Shibuki - 001",
+      "image": "https://vignette.wikia.nocookie.net/aikatsu/images/8/83/Photokatsu_0017.jpg/revision/latest?cb=20180723121103",
+      "version": "Default"
+    },
+
+    {
+        "id": 2,
+        "name": "Ran Shibuki - 002",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/2/29/Photokatsu_0013.jpg/revision/latest?cb=20160131072427",
+        "version": "Butterfly Kiss"
+    },
+
+    {
+        "id": 3,
+        "name": "Ran Shibuki - 003",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/4/4c/Photokatsu_0014.jpg/revision/latest?cb=20160210123353",
+        "version": "Queen of Roses"
+    },
+
+    {
+        "id": 4,
+        "name": "Ran Shibuki - 004",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/1/17/Photokatsu_0221.jpg/revision/latest?cb=20160219145748",
+        "version": "Choco Detective"
+    },
+
+    {
+        "id": 5,
+        "name": "Ran Shibuki - 005",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/4/49/Photokatsu_0222.png/revision/latest?cb=20160412140635",
+        "version": "Chocolatier"
+    },
+
+    {
+        "id": 6,
+        "name": "Ran Shibuki - 006",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/c/c7/Photokatsu_0435.jpg/revision/latest?cb=20160630071455",
+        "version": "Beach Goddess"
+    },
+
+    {
+        "id": 7,
+        "name": "Ran Shibuki - 007",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/c/c2/Photokatsu_0436.jpg/revision/latest?cb=20160702211325",
+        "version": "Aqua Hibiscus"
+    },
+
+    {
+        "id": 8,
+        "name": "Ran Shibuki - 008",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/c/c8/Photokatsu_0559.jpg/revision/latest?cb=20160922075036",
+        "version": "The Spy That Sang To Me"
+    },
+
+    {
+        "id": 9,
+        "name": "Ran Shibuki - 009",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/7/7c/Photokatsu_0560.jpg/revision/latest?cb=20160922075140",
+        "version": "Master Theif Lupin IV"
+    },
+
+    {
+        "id": 10,
+        "name": "Ran Shibuki - 010",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/0/05/Photokatsu_0711.png/revision/latest?cb=20161201181153",
+        "version": "Out in the City Lights"
+    },
+
+    {
+        "id": 11,
+        "name": "Ran Shibuki - 011",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/2/2f/Photokatsu_0712.jpg/revision/latest?cb=20161202011106",
+        "version": "Lovely Secretary"
+    },
+
+    {
+        "id": 12,
+        "name": "Ran Shibuki - 012",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/1/1e/Photokatsu_0900.png/revision/latest?cb=20170217055615",
+        "version": "Aladdin 1"
+    },
+
+    {
+        "id": 13,
+        "name": "Ran Shibuki - 013",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/1/1f/Photokatsu_0901.jpg/revision/latest?cb=20170217131207",
+        "version": "Aladdin 2"
+    },
+
+    {
+        "id": 14,
+        "name": "Ran Shibuki - 014",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/1/11/Photokatsu_1258.jpg/revision/latest?cb=20170824121102",
+        "version": "Smug Lioness"
+    },
+
+    {
+        "id": 15,
+        "name": "Ran Shibuki - 015",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/5/50/Photokatsu_1259.jpg/revision/latest?cb=20170824132117",
+        "version": "The Lion Queen"
+    },
+
+    {
+        "id": 16,
+        "name": "Ran Shibuki - 016",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/3/30/Photokatsu_1473.jpg/revision/latest?cb=20171213093546",
+        "version": "Lady Santa"
+    },
+
+    {
+        "id": 17,
+        "name": "Ran Shibuki - 017",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/9/9d/Photokatsu_1474.jpg/revision/latest?cb=20171217075830",
+        "version": "Frost Light Butterfly Empress"
+    },
+
+    {
+        "id": 18,
+        "name": "Ran Shibuki - 018",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/e/ef/Photokatsu_1570.jpg/revision/latest?cb=20180209055252",
+        "version": "Selfie"
+    },
+
+    {
+        "id": 19,
+        "name": "Ran Shibuki - 019",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/a/a3/Photokatsu_1571.jpg/revision/latest?cb=20180209055305",
+        "version": "Sun Dancer"
+    },
+
+    {
+        "id": 20,
+        "name": "Ran Shibuki - 020",
+        "image": "https://vignette.wikia.nocookie.net/aikatsu/images/c/c3/Photokatsu_1580.jpg/revision/latest?cb=20180301135850",
+        "version": "Cheerleader"
+    }
+]
